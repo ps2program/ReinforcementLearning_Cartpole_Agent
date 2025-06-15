@@ -117,7 +117,7 @@ state_bounds = [
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cartpole-qlearning.git
+git clone https://github.com/ps2program/ReinforcementLearning_Cartpole_Agent.git
 cd cartpole-qlearning
 
 # Install dependencies
